@@ -1,6 +1,6 @@
 {
   "name": "jsonwebtoken",
-  "version": "8.5.1",
+  "version": "8.5.1-lineaje-01",
   "description": "JSON Web Token implementation (symmetric and asymmetric)",
   "main": "index.js",
   "nyc": {
@@ -25,13 +25,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/auth0/node-jsonwebtoken"
+    "url": "https://github.com/lineaje-labs-gos/node-jsonwebtoken"
   },
   "keywords": [
     "jwt"
   ],
   "author": "auth0",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/auth0/node-jsonwebtoken/issues"
   },
